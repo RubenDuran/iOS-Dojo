@@ -17,6 +17,8 @@
 		151C2A651F1D3A8400001C4C /* StarWarsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151C2A641F1D3A8400001C4C /* StarWarsUITests.swift */; };
 		15A89E5F1F1D626200F2B664 /* FilmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A89E5E1F1D626200F2B664 /* FilmViewController.swift */; };
 		15A89E611F1D67BB00F2B664 /* StarWarsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A89E601F1D67BB00F2B664 /* StarWarsModel.swift */; };
+		15A89E631F1D91DB00F2B664 /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A89E621F1D91DB00F2B664 /* PersonViewController.swift */; };
+		15A89E691F1DBCC100F2B664 /* FilmDescriptionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A89E681F1DBCC100F2B664 /* FilmDescriptionController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		151C2A661F1D3A8400001C4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15A89E5E1F1D626200F2B664 /* FilmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilmViewController.swift; sourceTree = "<group>"; };
 		15A89E601F1D67BB00F2B664 /* StarWarsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarWarsModel.swift; sourceTree = "<group>"; };
+		15A89E621F1D91DB00F2B664 /* PersonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
+		15A89E681F1DBCC100F2B664 /* FilmDescriptionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilmDescriptionController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				151C2A431F1D3A8400001C4C /* PeopleViewController.swift */,
 				15A89E5E1F1D626200F2B664 /* FilmViewController.swift */,
 				151C2A451F1D3A8400001C4C /* Main.storyboard */,
+				15A89E681F1DBCC100F2B664 /* FilmDescriptionController.swift */,
+				15A89E621F1D91DB00F2B664 /* PersonViewController.swift */,
 				15A89E601F1D67BB00F2B664 /* StarWarsModel.swift */,
 				151C2A4B1F1D3A8400001C4C /* Assets.xcassets */,
 				151C2A4D1F1D3A8400001C4C /* LaunchScreen.storyboard */,
@@ -272,6 +278,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				151C2A441F1D3A8400001C4C /* PeopleViewController.swift in Sources */,
+				15A89E631F1D91DB00F2B664 /* PersonViewController.swift in Sources */,
+				15A89E691F1DBCC100F2B664 /* FilmDescriptionController.swift in Sources */,
 				151C2A421F1D3A8400001C4C /* AppDelegate.swift in Sources */,
 				15A89E611F1D67BB00F2B664 /* StarWarsModel.swift in Sources */,
 				15A89E5F1F1D626200F2B664 /* FilmViewController.swift in Sources */,
